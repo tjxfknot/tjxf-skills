@@ -1,0 +1,26 @@
+{
+  "schema": 1,
+  "date": "2026-11-12",
+  "authorizedSkillNames": [
+    "HTML编辑台",
+    "编辑台配件",
+    "content-layout-analysis",
+    "content-layout-analysis-beta",
+    "editable-video-deck",
+    "分档卡片课件",
+    "口播课件动效",
+    "课件录视频",
+    "html-content-showcase",
+    "企微群书签",
+    "compact-thread-handoff",
+    "long-job-monitor",
+    "digsik",
+    "iPhone镜像操作"
+  ],
+  "account": "tjxfknot",
+  "sourcePolicy": "Only the explicitly selected public copies; downloaded third-party skill packages and private source materials excluded.",
+  "publicIdentity": {
+    "handle": "tjxf",
+    "displayName": "停机修复"
+  }
+}

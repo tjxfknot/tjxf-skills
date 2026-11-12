@@ -1,0 +1,16 @@
+.DS_Store
+__pycache__/
+*.py[cod]
+node_modules/
+.venv/
+.env
+.env.*
+!.env.example
+*cookies*.txt
+*credentials*.json
+*.log
+test-output/
+output/
+outputs/
+local-config.md
+*.tsbuildinfo

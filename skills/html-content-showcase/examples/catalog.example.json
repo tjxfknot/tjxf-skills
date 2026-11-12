@@ -1,0 +1,17 @@
+{
+  "patterns": [
+    {
+      "id": "example-steps",
+      "name": "演示分步展开",
+      "scenario": [
+        "讲解过程"
+      ],
+      "source": {
+        "url": null,
+        "version": null,
+        "license_status": "not-provided"
+      },
+      "status": "example-only"
+    }
+  ]
+}

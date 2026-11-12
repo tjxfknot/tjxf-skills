@@ -1,0 +1,47 @@
+{
+  "schema": "evd-plan/1",
+  "deck": {
+    "title": "一杯茶 · 可编辑演示",
+    "key": "evd-public-demo-v1",
+    "exportName": "tea-demo-edited.html",
+    "backupName": "tea-demo-backup.json",
+    "settings": {
+      "ver": 1,
+      "fs": 1,
+      "theme": "warm",
+      "reduceMotion": true
+    }
+  },
+  "defaults": {
+    "design": {
+      "top": 118,
+      "gap": 24,
+      "titleSize": 72,
+      "cardSize": 60,
+      "bodySize": 48,
+      "width": 1072
+    }
+  },
+  "nav": [
+    {
+      "name": "演示",
+      "start": "P01"
+    }
+  ],
+  "pages": {
+    "P01": {
+      "layout": "rows"
+    },
+    "P02": {
+      "layout": "steps"
+    },
+    "P03": {
+      "layout": "bh",
+      "opts": {
+        "cols": 2,
+        "maxWidth": 1072
+      }
+    }
+  },
+  "textFixes": []
+}

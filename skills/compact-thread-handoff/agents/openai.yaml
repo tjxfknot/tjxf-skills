@@ -1,0 +1,4 @@
+interface:
+  display_name: "线程瘦身"
+  short_description: "把超长线程压成可复制的新线程交接包"
+  default_prompt: "用 $compact-thread-handoff 做一次线程瘦身，生成可复制到新线程的交接包。"

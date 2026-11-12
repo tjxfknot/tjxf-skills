@@ -1,0 +1,146 @@
+{
+  "ver": 1,
+  "fs": 1,
+  "theme": "warm",
+  "reduceMotion": false,
+  "pages": [
+    {
+      "id": "P01",
+      "title": "准备一杯茶",
+      "tag": "合成演示",
+      "lead": "",
+      "note": "完全虚构的通用演示，不构成操作或饮食建议。",
+      "groups": [
+        {
+          "id": "P01-g1",
+          "label": "01",
+          "title": "清水",
+          "body": "选择适合饮用的清水。",
+          "cue": {
+            "segmentIds": [
+              "SEG-001"
+            ],
+            "sourceText": "先准备清水，再准备茶叶。",
+            "phrases": [
+              "清水"
+            ]
+          }
+        },
+        {
+          "id": "P01-g2",
+          "label": "02",
+          "title": "茶叶",
+          "body": "按个人口味准备茶叶。",
+          "cue": {
+            "segmentIds": [
+              "SEG-001"
+            ],
+            "sourceText": "先准备清水，再准备茶叶。",
+            "phrases": [
+              "茶叶"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "P02",
+      "title": "完成冲泡",
+      "tag": "合成演示",
+      "lead": "",
+      "note": "完全虚构的通用演示，不构成操作或饮食建议。",
+      "groups": [
+        {
+          "id": "P02-g1",
+          "label": "01",
+          "title": "热水",
+          "body": "缓缓注入热水。",
+          "cue": {
+            "segmentIds": [
+              "SEG-002"
+            ],
+            "sourceText": "接下来注入热水，然后静候片刻。",
+            "phrases": [
+              "热水"
+            ]
+          }
+        },
+        {
+          "id": "P02-g2",
+          "label": "02",
+          "title": "静候片刻",
+          "body": "等待茶香展开。",
+          "cue": {
+            "segmentIds": [
+              "SEG-002"
+            ],
+            "sourceText": "接下来注入热水，然后静候片刻。",
+            "phrases": [
+              "静候片刻"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "P03",
+      "title": "整理桌面",
+      "tag": "合成演示",
+      "lead": "",
+      "note": "完全虚构的通用演示，不构成操作或饮食建议。",
+      "groups": [
+        {
+          "id": "P03-g1",
+          "label": "01",
+          "title": "整理桌面",
+          "body": "把用过的工具归位。",
+          "cue": {
+            "segmentIds": [
+              "SEG-003"
+            ],
+            "sourceText": "最后整理桌面，收好工具。",
+            "phrases": [
+              "整理桌面"
+            ]
+          }
+        },
+        {
+          "id": "P03-g2",
+          "label": "02",
+          "title": "收好工具",
+          "body": "保持桌面整洁。",
+          "cue": {
+            "segmentIds": [
+              "SEG-003"
+            ],
+            "sourceText": "最后整理桌面，收好工具。",
+            "phrases": [
+              "收好工具"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "sourceSegments": [
+    {
+      "id": "SEG-001",
+      "text": "先准备清水，再准备茶叶。",
+      "screenId": "P01",
+      "disposition": "口播原文"
+    },
+    {
+      "id": "SEG-002",
+      "text": "接下来注入热水，然后静候片刻。",
+      "screenId": "P02",
+      "disposition": "口播原文"
+    },
+    {
+      "id": "SEG-003",
+      "text": "最后整理桌面，收好工具。",
+      "screenId": "P03",
+      "disposition": "口播原文"
+    }
+  ],
+  "sourceRevision": "synthetic-demo-v1"
+}

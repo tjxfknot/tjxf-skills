@@ -1,0 +1,89 @@
+{
+  "schema": 1,
+  "skills": [
+    {
+      "name": "HTML编辑台",
+      "path": "skills/HTML编辑台",
+      "summary": "给独立 HTML 加上就地改字、浏览器保存与导出",
+      "kind": "local-collaboration-public-copy"
+    },
+    {
+      "name": "编辑台配件",
+      "path": "skills/编辑台配件",
+      "summary": "为编辑台增加参数滑块、条目清单和快捷键",
+      "kind": "local-collaboration-public-copy"
+    },
+    {
+      "name": "content-layout-analysis",
+      "path": "skills/content-layout-analysis",
+      "summary": "把原稿拆成分页与版式规划，检查容量",
+      "kind": "local-collaboration-public-copy"
+    },
+    {
+      "name": "content-layout-analysis-beta",
+      "path": "skills/content-layout-analysis-beta",
+      "summary": "测试版：规划时同步标出原稿触发词",
+      "kind": "local-collaboration-public-copy"
+    },
+    {
+      "name": "editable-video-deck",
+      "path": "skills/editable-video-deck",
+      "summary": "制作 4:3 口播课件，支持编辑、逐条讲解与跟读",
+      "kind": "local-collaboration-public-copy"
+    },
+    {
+      "name": "分档卡片课件",
+      "path": "skills/分档卡片课件",
+      "summary": "把分档盘点做成同位置切换的可缩放卡片课件",
+      "kind": "local-collaboration-public-copy"
+    },
+    {
+      "name": "口播课件动效",
+      "path": "skills/口播课件动效",
+      "summary": "为讲解内容增加逐条出现、转场和动画兜底",
+      "kind": "local-collaboration-public-copy"
+    },
+    {
+      "name": "课件录视频",
+      "path": "skills/课件录视频",
+      "summary": "用逐帧渲染把课件导出为 MP4",
+      "kind": "local-collaboration-public-copy"
+    },
+    {
+      "name": "html-content-showcase",
+      "path": "skills/html-content-showcase",
+      "summary": "管理自己准备的 HTML 模板、来源和试用记录",
+      "kind": "local-collaboration-public-copy"
+    },
+    {
+      "name": "企微群书签",
+      "path": "skills/企微群书签",
+      "summary": "经授权读取指定群，整理并写入指定飞书文档",
+      "kind": "local-collaboration-public-copy"
+    },
+    {
+      "name": "compact-thread-handoff",
+      "path": "skills/compact-thread-handoff",
+      "summary": "把长聊天整理成可独立续接的交接包",
+      "kind": "local-collaboration-public-copy"
+    },
+    {
+      "name": "long-job-monitor",
+      "path": "skills/long-job-monitor",
+      "summary": "用状态差异检查长任务的进展和停滞",
+      "kind": "local-collaboration-public-copy"
+    },
+    {
+      "name": "digsik",
+      "path": "skills/digsik",
+      "summary": "把值得深挖的问题存成候选，再筛为学习卡片",
+      "kind": "local-collaboration-public-copy"
+    },
+    {
+      "name": "iPhone镜像操作",
+      "path": "skills/iPhone镜像操作",
+      "summary": "使用当前宿主的电脑工具操作已连接的 iPhone 镜像",
+      "kind": "local-collaboration-public-copy"
+    }
+  ]
+}
